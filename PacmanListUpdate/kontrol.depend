@@ -1,0 +1,883 @@
+# depslib dependency file v1.0
+1620077208 source:d:\file polban\kontrol\kontrol.cpp
+	"header.h"
+
+1620001972 source:d:\file polban\kontrol\main.cpp
+	"header.h"
+
+1620042763 d:\file polban\kontrol\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps.h"
+
+1620042235 d:\file polban\kontrol\kontrol.h
+
+1620002516 d:\file polban\kontrol\menuawal.h
+
+1620077537 d:\file polban\kontrol\maps.h
+
+1620076431 source:d:\file polban\kontrol\maps.cpp
+	"header.h"
+
+1620005865 source:d:\file polban\kontrol\menuawal.cpp
+	"header.h"
+
+1620029196 source:d:\file polban\kontrol\score.cpp
+
+1620094230 source:d:\kontrol\kontrol.cpp
+	"header.h"
+
+1620094344 d:\kontrol\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+
+1620042235 d:\kontrol\kontrol.h
+
+1620002516 d:\kontrol\menuawal.h
+
+1620077537 d:\kontrol\maps.h
+
+1620077537 source:d:\kontrol\maps.cpp
+	"header.h"
+
+1620005865 source:d:\kontrol\menuawal.cpp
+	"header.h"
+
+1620094857 source:d:\kontrol\score.cpp
+
+1620092894 source:d:\kontrol\main.cpp
+	"header.h"
+
+1620094230 d:\kontrol\maps2.h
+
+1620094375 source:d:\kontrol\maps2.cpp
+	"header.h"
+
+1620005866 source:c:\users\yoga nizar h\downloads\pacman\menuawal.cpp
+	"header.h"
+
+1620094346 c:\users\yoga nizar h\downloads\pacman\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	<conio.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+
+1620042236 c:\users\yoga nizar h\downloads\pacman\kontrol.h
+
+1620002518 c:\users\yoga nizar h\downloads\pacman\menuawal.h
+
+1620094232 c:\users\yoga nizar h\downloads\pacman\maps2.h
+
+1620097324 source:c:\users\yoga nizar h\downloads\pacman\kontrol.cpp
+	"header.h"
+
+1620092896 source:c:\users\yoga nizar h\downloads\pacman\main.cpp
+	"header.h"
+
+1620094376 source:c:\users\yoga nizar h\downloads\pacman\maps2.cpp
+	"header.h"
+
+1620094858 source:c:\users\yoga nizar h\downloads\pacman\score.cpp
+
+1620092896 source:d:\pacmanfixed\main.cpp
+	"header.h"
+
+1621529987 d:\pacmanfixed\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"score.h"
+
+1621532657 d:\pacmanfixed\kontrol.h
+
+1620002518 d:\pacmanfixed\menuawal.h
+
+1621532657 d:\pacmanfixed\maps2.h
+
+1621532657 source:d:\pacmanfixed\maps2.cpp
+	"header.h"
+
+1620005866 source:d:\pacmanfixed\menuawal.cpp
+	"header.h"
+
+1621534308 source:d:\pacmanfixed\score.cpp
+	"header.h"
+
+1621535986 source:d:\pacmanfixed\kontrol.cpp
+	"header.h"
+
+1620052207 source:d:\pacmanfixed\ghost.c
+	"header.h"
+
+1620305303 source:d:\pacmanfixed\ghost_img.c
+	"header.h"
+
+1620413969 d:\pacmanfixed\ghost_img.h
+
+1620413969 d:\pacmanfixed\ghost.h
+
+1620415940 d:\pacmanfixed\enemy_img.h
+
+1620496624 d:\pacmanfixed\enemy.h
+
+1620415940 source:d:\pacmanfixed\enemy_img.cpp
+	"header.h"
+
+1620611226 source:d:\pacmanfixed\enemy.cpp
+	"header.h"
+
+1621534332 d:\pacmanfixed\score.h
+	<time.h>
+	<graphics.h>
+
+1620415942 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix\enemy_img.cpp
+	"header.h"
+
+1621529988 d:\kuliah\semester 2\proyek perangkat lunak 2\fix\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"score.h"
+
+1622385601 d:\kuliah\semester 2\proyek perangkat lunak 2\fix\kontrol.h
+
+1621588941 d:\kuliah\semester 2\proyek perangkat lunak 2\fix\menuawal.h
+
+1622386712 d:\kuliah\semester 2\proyek perangkat lunak 2\fix\maps2.h
+
+1620415942 d:\kuliah\semester 2\proyek perangkat lunak 2\fix\enemy_img.h
+
+1621534334 d:\kuliah\semester 2\proyek perangkat lunak 2\fix\score.h
+	<time.h>
+	<graphics.h>
+
+1622387161 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix\kontrol.cpp
+	"header.h"
+
+1621590315 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix\main.cpp
+	"header.h"
+
+1622386740 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix\maps2.cpp
+	"header.h"
+
+1621589216 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix\menuawal.cpp
+	"header.h"
+
+1622386766 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix\score.cpp
+	"header.h"
+
+1622419781 source:d:\fix\enemy_img.cpp
+	"header.h"
+
+1622829290 d:\fix\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+
+1623000287 d:\fix\kontrol.h
+
+1621588940 d:\fix\menuawal.h
+
+1623002885 d:\fix\maps2.h
+
+1620415942 d:\fix\enemy_img.h
+
+1623068855 d:\fix\score.h
+	<time.h>
+	<graphics.h>
+
+1623073174 source:d:\fix\kontrol.cpp
+	"header.h"
+
+1621590314 source:d:\fix\main.cpp
+	"header.h"
+
+1623039439 source:d:\fix\maps2.cpp
+	"header.h"
+
+1622830705 source:d:\fix\menuawal.cpp
+	"header.h"
+
+1623068855 source:d:\fix\score.cpp
+	"header.h"
+
+1623072889 d:\fix\sound.h
+	"header.h"
+
+1623072818 source:d:\fix\sound.cpp
+	"header.h"
+
+1622419782 source:d:\bismillah harus jadi besok\enemy_img.cpp
+	"header.h"
+
+1622829292 d:\bismillah harus jadi besok\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+
+1623081329 d:\bismillah harus jadi besok\kontrol.h
+
+1621588940 d:\bismillah harus jadi besok\menuawal.h
+
+1623084441 d:\bismillah harus jadi besok\maps2.h
+
+1620415942 d:\bismillah harus jadi besok\enemy_img.h
+
+1623083918 d:\bismillah harus jadi besok\sound.h
+	"header.h"
+
+1623068856 d:\bismillah harus jadi besok\score.h
+	<time.h>
+	<graphics.h>
+
+1623084441 source:d:\bismillah harus jadi besok\kontrol.cpp
+	"header.h"
+
+1621590314 source:d:\bismillah harus jadi besok\main.cpp
+	"header.h"
+
+1623084624 source:d:\bismillah harus jadi besok\maps2.cpp
+	"header.h"
+
+1622830706 source:d:\bismillah harus jadi besok\menuawal.cpp
+	"header.h"
+
+1623083649 source:d:\bismillah harus jadi besok\score.cpp
+	"header.h"
+
+1623083900 source:d:\bismillah harus jadi besok\sound.cpp
+	"header.h"
+
+1623115951 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\enemy_img.cpp
+	"header.h"
+
+1622829292 d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+
+1623114180 d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\kontrol.h
+
+1623138354 d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\menuawal.h
+
+1623119556 d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\maps2.h
+
+1623115952 d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\enemy_img.h
+
+1623083920 d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\sound.h
+	"header.h"
+
+1623115331 d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\score.h
+	<time.h>
+	<graphics.h>
+
+1621590314 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\main.cpp
+	"header.h"
+
+1623119411 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\maps2.cpp
+	"header.h"
+
+1622830706 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\menuawal.cpp
+	"header.h"
+
+1623115735 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\score.cpp
+	"header.h"
+
+1623083902 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\sound.cpp
+	"header.h"
+
+1623117981 source:d:\kuliah\semester 2\proyek perangkat lunak 2\fix3\kontrol.cpp
+	"header.h"
+
+1621590314 source:c:\kuliah\semester 2\ppl\tugas pacman\fix3\main.cpp
+	"header.h"
+
+1624886791 c:\kuliah\semester 2\ppl\tugas pacman\fix3\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+
+1624888350 c:\kuliah\semester 2\ppl\tugas pacman\fix3\kontrol.h
+
+1623138354 c:\kuliah\semester 2\ppl\tugas pacman\fix3\menuawal.h
+
+1623119556 c:\kuliah\semester 2\ppl\tugas pacman\fix3\maps2.h
+
+1624821915 c:\kuliah\semester 2\ppl\tugas pacman\fix3\enemy_img.h
+
+1623083920 c:\kuliah\semester 2\ppl\tugas pacman\fix3\sound.h
+	"header.h"
+
+1623115330 c:\kuliah\semester 2\ppl\tugas pacman\fix3\score.h
+	<time.h>
+	<graphics.h>
+
+1622830706 source:c:\kuliah\semester 2\ppl\tugas pacman\fix3\menuawal.cpp
+	"header.h"
+
+1623115734 source:c:\kuliah\semester 2\ppl\tugas pacman\fix3\score.cpp
+	"header.h"
+
+1623083902 source:c:\kuliah\semester 2\ppl\tugas pacman\fix3\sound.cpp
+	"header.h"
+
+1624894165 source:c:\kuliah\semester 2\ppl\tugas pacman\fix3\enemy_img.cpp
+	"header.h"
+
+1624821915 source:c:\kuliah\semester 2\ppl\tugas pacman\fix3\maps2.cpp
+	"header.h"
+
+1624894862 source:c:\kuliah\semester 2\ppl\tugas pacman\fix3\kontrol.cpp
+	"header.h"
+
+1624894166 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\enemy_img.cpp
+	"header.h"
+
+1624886792 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+
+1624888352 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\kontrol.h
+
+1623138354 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\menuawal.h
+
+1623119556 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\maps2.h
+
+1624821916 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\enemy_img.h
+
+1623083920 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\sound.h
+	"header.h"
+
+1623115330 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\score.h
+	<time.h>
+	<graphics.h>
+
+1621590314 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\main.cpp
+	"header.h"
+
+1624821916 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\maps2.cpp
+	"header.h"
+
+1622830706 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\menuawal.cpp
+	"header.h"
+
+1623115734 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\score.cpp
+	"header.h"
+
+1623083902 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\sound.cpp
+	"header.h"
+
+1625448146 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\enemy_img.cpp
+	"header.h"
+
+1625998970 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+
+1625999219 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\kontrol.h
+
+1625981374 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\menuawal.h
+
+1623119556 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\maps2.h
+
+1625448509 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\enemy_img.h
+
+1623083920 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\sound.h
+	"header.h"
+
+1626069838 d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\score.h
+	<time.h>
+	<graphics.h>
+
+1626083574 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\kontrol.cpp
+	"header.h"
+
+1621590314 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\main.cpp
+	"header.h"
+
+1625449174 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\maps2.cpp
+	"header.h"
+
+1626077450 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\menuawal.cpp
+	"header.h"
+
+1626083918 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\score.cpp
+	"header.h"
+
+1623083902 source:d:\kuliah\semester 2\proyek perangkat lunak 2\game pacman v.2\pacman urg\sound.cpp
+	"header.h"
+
+1625448146 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\enemy_img.cpp
+	"header.h"
+
+1628016701 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+	"maps_list.h"
+
+1628056785 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\kontrol.h
+	"matrix.h"
+
+1625981374 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\menuawal.h
+
+1623119556 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\maps2.h
+
+1625448508 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\enemy_img.h
+
+1623083920 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\sound.h
+	"header.h"
+
+1626069838 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\score.h
+	<time.h>
+	<graphics.h>
+
+1628047912 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\kontrol.cpp
+	"header.h"
+
+1621590314 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\main.cpp
+	"header.h"
+
+1627754560 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\maps2.cpp
+	"header.h"
+
+1627460085 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\menuawal.cpp
+	"header.h"
+
+1628015651 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\score.cpp
+	"header.h"
+
+1623083902 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\sound.cpp
+	"header.h"
+
+1627179319 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\ghost.h
+
+1627179317 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\ghost.cpp
+	"header.h"
+
+1628015365 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\matrix.h
+	"header.h"
+
+1628016534 c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\maps_list.h
+
+1628052430 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\maps_list.cpp
+	"header.h"
+
+1627893188 source:c:\kuliah\semester 2\ppl\git\kel8-2021\pacman1\pacman vvv\matrix.cpp
+	"header.h"
+
+1625448146 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\enemy_img.cpp
+	"header.h"
+
+1628016702 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+	"maps_list.h"
+
+1628064004 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\kontrol.h
+	"matrix.h"
+
+1628015366 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\matrix.h
+	"header.h"
+
+1625981374 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\menuawal.h
+
+1623119556 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\maps2.h
+
+1625448508 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\enemy_img.h
+
+1623083920 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\sound.h
+	"header.h"
+
+1626069838 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\score.h
+	<time.h>
+	<graphics.h>
+
+1628016536 d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\maps_list.h
+
+1621590314 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\main.cpp
+	"header.h"
+
+1628052432 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\maps_list.cpp
+	"header.h"
+
+1627893190 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\matrix.cpp
+	"header.h"
+
+1623083902 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\sound.cpp
+	"header.h"
+
+1628066064 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\kontrol.cpp
+	"header.h"
+
+1627754562 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\maps2.cpp
+	"header.h"
+
+1627460086 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\menuawal.cpp
+	"header.h"
+
+1628015652 source:d:\kuliah\semester 2\proyek perangkat lunak 2\pacman linked  list\sourcecode\score.cpp
+	"header.h"
+
+1625448146 source:d:\berantakan 2\pacman list baru\sourcecode\enemy_img.cpp
+	"header.h"
+
+1628016702 d:\berantakan 2\pacman list baru\sourcecode\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+	"maps_list.h"
+
+1628094884 d:\berantakan 2\pacman list baru\sourcecode\kontrol.h
+	"matrix.h"
+
+1628015366 d:\berantakan 2\pacman list baru\sourcecode\matrix.h
+	"header.h"
+
+1625981374 d:\berantakan 2\pacman list baru\sourcecode\menuawal.h
+
+1623119556 d:\berantakan 2\pacman list baru\sourcecode\maps2.h
+
+1625448508 d:\berantakan 2\pacman list baru\sourcecode\enemy_img.h
+
+1623083920 d:\berantakan 2\pacman list baru\sourcecode\sound.h
+	"header.h"
+
+1626069838 d:\berantakan 2\pacman list baru\sourcecode\score.h
+	<time.h>
+	<graphics.h>
+
+1628016536 d:\berantakan 2\pacman list baru\sourcecode\maps_list.h
+
+1628099828 source:d:\berantakan 2\pacman list baru\sourcecode\kontrol.cpp
+	"header.h"
+
+1621590314 source:d:\berantakan 2\pacman list baru\sourcecode\main.cpp
+	"header.h"
+
+1627754562 source:d:\berantakan 2\pacman list baru\sourcecode\maps2.cpp
+	"header.h"
+
+1628052432 source:d:\berantakan 2\pacman list baru\sourcecode\maps_list.cpp
+	"header.h"
+
+1627893190 source:d:\berantakan 2\pacman list baru\sourcecode\matrix.cpp
+	"header.h"
+
+1627460086 source:d:\berantakan 2\pacman list baru\sourcecode\menuawal.cpp
+	"header.h"
+
+1628015652 source:d:\berantakan 2\pacman list baru\sourcecode\score.cpp
+	"header.h"
+
+1623083902 source:d:\berantakan 2\pacman list baru\sourcecode\sound.cpp
+	"header.h"
+
+1621590314 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\main.cpp
+	"header.h"
+
+1628016702 c:\users\yoga nizar h\downloads\pacmanhampirjadi\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+	"maps_list.h"
+
+1628094886 c:\users\yoga nizar h\downloads\pacmanhampirjadi\kontrol.h
+	"matrix.h"
+
+1628015366 c:\users\yoga nizar h\downloads\pacmanhampirjadi\matrix.h
+	"header.h"
+
+1625981374 c:\users\yoga nizar h\downloads\pacmanhampirjadi\menuawal.h
+
+1623119556 c:\users\yoga nizar h\downloads\pacmanhampirjadi\maps2.h
+
+1625448508 c:\users\yoga nizar h\downloads\pacmanhampirjadi\enemy_img.h
+
+1623083920 c:\users\yoga nizar h\downloads\pacmanhampirjadi\sound.h
+	"header.h"
+
+1626069838 c:\users\yoga nizar h\downloads\pacmanhampirjadi\score.h
+	<time.h>
+	<graphics.h>
+
+1628016536 c:\users\yoga nizar h\downloads\pacmanhampirjadi\maps_list.h
+
+1628052432 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\maps_list.cpp
+	"header.h"
+
+1627893190 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\matrix.cpp
+	"header.h"
+
+1627460086 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\menuawal.cpp
+	"header.h"
+
+1623083902 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\sound.cpp
+	"header.h"
+
+1628101272 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\enemy_img.cpp
+	"header.h"
+
+1628101272 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\maps2.cpp
+	"header.h"
+
+1628101272 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\score.cpp
+	"header.h"
+
+1628104266 source:c:\users\yoga nizar h\downloads\pacmanhampirjadi\kontrol.cpp
+	"header.h"
+
+1628101272 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\enemy_img.cpp
+	"header.h"
+
+1628016702 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\header.h
+	<stdio.h>
+	<graphics.h>
+	<windows.h>
+	<process.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"kontrol.h"
+	"menuawal.h"
+	"maps2.h"
+	"enemy_img.h"
+	"sound.h"
+	"score.h"
+	"maps_list.h"
+
+1628094886 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\kontrol.h
+	"matrix.h"
+
+1628015366 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\matrix.h
+	"header.h"
+
+1625981374 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\menuawal.h
+
+1623119556 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\maps2.h
+
+1625448508 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\enemy_img.h
+
+1623083920 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\sound.h
+	"header.h"
+
+1626069838 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\score.h
+	<time.h>
+	<graphics.h>
+
+1628016536 d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\maps_list.h
+
+1621590314 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\main.cpp
+	"header.h"
+
+1628101272 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\maps2.cpp
+	"header.h"
+
+1628052432 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\maps_list.cpp
+	"header.h"
+
+1627893190 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\matrix.cpp
+	"header.h"
+
+1627460086 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\menuawal.cpp
+	"header.h"
+
+1628101272 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\score.cpp
+	"header.h"
+
+1623083902 source:d:\file polban\mata-kuliah-ti-semester2\proyek\kontrol\kel8-2021\pacmanlistupdate\sound.cpp
+	"header.h"
+
